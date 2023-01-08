@@ -1,0 +1,49 @@
+body{
+  background-color: #292F36;
+  font-family: 'Quicksand', sans-serif;
+  color: #DBDBDB;
+}
+
+/* generic ^ */
+
+.recipes-main{
+  display:flex;
+  text-align: center;
+  justify-content: center;
+  max-width: 95%;
+  margin-top: 200px;
+}
+
+.recipe-main {
+  list-style: none;
+
+}
+
+.recipe-image{
+  height: 500px;
+  width: 550px;
+  margin: 0px 50px;
+  border-radius: 15px;
+}
+
+#title{
+  font-size: 48px;
+}
+
+p {
+  font-size: 24px;
+}
+
+.container{
+  padding-top: 50px;
+  margin: auto;
+  width: 100%;
+  height: 125px;
+  text-align: center;
+}
+
+.recipe-container{
+  display: flex;
+}
+
+
